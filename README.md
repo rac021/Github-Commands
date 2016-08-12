@@ -1,7 +1,7 @@
 
 # Github-Commands
 
-    curl -u 'rac021' https://api.github.com/user/repos -d '{"name":"verxt","description":"vertx simple demo "}'
+    curl -u 'rac021' https://api.github.com/user/repos -d '{"name":"vertx","description":"vertx simple demo "}'
 
     git clone https://github.com/rac021/vertx.git
     git add -A
